@@ -17,4 +17,6 @@ Building something on-chain? Tell us what it is. No calls needed to start — we
 📫 contact@automate-ai.live
 
 ---
-📌 Start here: [token-staking-rewards](https://github.com/chainwright/token-staking-rewards) — a tested, audit-minded staking contract in Solidity + Foundry.
+### Open code
+- [token-staking-rewards](https://github.com/chainwright/token-staking-rewards) — audit-minded ERC20 staking (Synthetix pattern), Solidity + Foundry, fully tested.
+- [gasless-smart-account](https://github.com/chainwright/gasless-smart-account) — ERC-4337 smart account + paymaster: a user with zero ETH transacts, the paymaster pays gas.
